@@ -56,7 +56,7 @@ Modelos testados:
 
 ---
 
-## 📈 Resultados (Validação)
+## Resultados (Validação)
 
 | Modelo | Accuracy |
 |--------|----------|
